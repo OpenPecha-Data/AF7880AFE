@@ -1,0 +1,30 @@
+segment_sources:
+  IC6694F59:
+    type: origin_type
+    relation: translation
+    base: A5D6
+    lang: en
+  IDEDE4E65:
+    type: origin_type
+    relation: translation
+    base: 8AD4
+    lang: bo
+segment_pairs:
+  fdd900d5ada24155a97c0c5bc151977a:
+    IC6694F59: aafbf8596a1e4288837252ec03d8fd07
+    IDEDE4E65: 5de10e04b4a843be9e9ba7b4a2b9a839
+  067620dd3c1146dda5c33425f4138000:
+    IC6694F59: bb2e19918ab7469c890636780541ad70
+    IDEDE4E65: 7b0d427d8b3a4f9a95873546e33aeed8
+  553d8626927741539befff5e70bb74e3:
+    IC6694F59: 964c3a57d75f42c0874a1c4956728b12
+    IDEDE4E65: 775444dc90f74233bcfa123c854fc680
+  7a947b345bbd490fafdd35b78a44d8f5:
+    IC6694F59: d21d07c1d56d40a887ef0b1493f5add0
+    IDEDE4E65: 7838f84d263e4f339dd478040ea6d744
+  a099654aa6db4728812b0a70a59d065f:
+    IC6694F59: f04aeb1e62eb430baac379f1aa8600b9
+    IDEDE4E65: 8e1dd4944b734a679eea5629bd46fc93
+  1e44635d8e434970b5f89cb4122d9892:
+    IC6694F59: 7ee2807303234543be9c1fa6d7e4614c
+    IDEDE4E65: e2fcef9158084c65a3961f57f999fe50
